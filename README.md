@@ -6,3 +6,14 @@
 
 - 💻 Estudo Análise e desenvolvimento de sistemas
 
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/pedro-amancio" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-PedroAmancio-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://www.linkedin.com/in/pedro-lucas-amancio-gomes/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-PedroAmancio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/pedro.wks/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-PedroAmancio-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
