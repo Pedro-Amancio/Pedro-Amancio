@@ -2,7 +2,7 @@
 <h1 align="left">Olá tudo bem? Eu sou o Pedro</h1> 
 
 
-- 🔥  Desenvolvedor back-end java
+- 🔥  Desenvolvedor back-end Python
 
 - 💻 Estudo Análise e desenvolvimento de sistemas
 
