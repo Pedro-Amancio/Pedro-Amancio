@@ -2,9 +2,9 @@
 <h1 align="left">Olá tudo bem? Eu sou o Pedro</h1> 
 
 
-- 🔥  Desenvolvedor back-end GoLang
+- 🔥  Desenvolvedor Mobile - Dart | Flutter;
 
-- 💻 Estudo Análise e desenvolvimento de sistemas
+- 💻 Estudo Análise e desenvolvimento de sistemas;
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/pedro-amancio" target="_blank">
